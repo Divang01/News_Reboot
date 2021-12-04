@@ -69,3 +69,6 @@ doing other activities like eating, traveling in public transport etc.
 
 **SCREENSHOT**
 
+
+![newspic3](https://user-images.githubusercontent.com/63945098/144713481-483e6043-75a4-4af9-a154-f5152d3848db.png)
+
