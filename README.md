@@ -22,6 +22,7 @@ doing other activities like eating, traveling in public transport etc.
 
 **Design of project (Flowchart)**
 
+![flowchart](https://user-images.githubusercontent.com/63945098/144713301-23b96ea8-ea02-4405-95ff-623ab3e839d0.png)
 
 **Sign In Page**
 
